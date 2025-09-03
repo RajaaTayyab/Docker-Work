@@ -1,0 +1,7 @@
+Docker Linking Challenge
+You need to run two containers:
+
+A MySQL database container
+
+A PHP container that connects to that MySQL container to run a query
+

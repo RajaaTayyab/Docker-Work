@@ -1,0 +1,4 @@
+FROM node:6.9.1
+WORKDIR /root
+COPY server.js /root/server.js
+CMD ["node", "server.js"]

@@ -1,0 +1,5 @@
+FROM alpine 
+RUN apk add --no-cache curl
+COPY pong.sh /pong.sh
+RUN chmod +x /pong.sh
+CMD ["/pong.sh"] 
