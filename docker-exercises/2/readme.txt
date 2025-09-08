@@ -17,3 +17,6 @@ You should get this as the output.
 Run it without setting the env variable and you should get this as output
 > docker run testimage
 > testhost
+
+
+Answer: replace host1 with testhost

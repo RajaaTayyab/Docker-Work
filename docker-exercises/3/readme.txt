@@ -1,6 +1,7 @@
 -------------------------------- Description --------------------------------
 What happens when you try this and what is wrong with it? Next, how do you fix it?
-Answer There is an extraneous semicolon in the Dockerfile
+Answer 
+There is an extraneous semicolon in the Dockerfile
 
 
 
